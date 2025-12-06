@@ -1,10 +1,10 @@
 # Resources
 
 ## Español
-¡Recursos creados por mí que puedes usar gratis para tus proyectos comerciales! Todos usando solo software gratis y código abierto 🗝️❤️
+¡Recursos de Arte y Audio creados por mí que puedes usar gratis para tus proyectos comerciales! Todos usando solo software gratis y código abierto 🗝️❤️
 
 ## English
-Resources created by me that you can use for free for your commercial projects! All using only free and open-source software 🗝️❤️
+Art & Audio resources created by me that you can use for free for your commercial projects! All using only free and open-source software 🗝️❤️
 
 # Demos
 
