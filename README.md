@@ -19,5 +19,3 @@ Art & Audio resources created by me that you can use for free for your commercia
 
 ## Little Truck (Blockbench)
 ![little_truck](https://github.com/user-attachments/assets/07f6d0cb-576e-4384-bba0-c68de2787d6d)
-
-**And more resources in this repository and in my [Portfolio](https://ismaelmerlo.netlify.app)**
